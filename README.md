@@ -1,44 +1,65 @@
+
+
 # Social Network API
 
-## Description 
+## Description
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
-A functional backend for a proposed social networking platform. It is built with Node, MongoDB, Mongoose, ExpressJS, MomentJS, NoDemon, NoSQL, and utilizes the Model - View - Controller architecture. 
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Uses Express.js for routing, a MongoDB database, and the Mongoose ODM. Uses JavaScript Moment library to format timestamps. 
 
-## Table of Contents 
+![Screenshot](copy here URL of your app screenshot)
 
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Documentation](#documentation)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## Usage 
+## Installation
+Install Dependencies with `npm install`
 
-Clone the repo, navigate to the root folder, run the following commands from the CLI:     
-
-Install Dependencies;    
-`npm install`
-
-Start Server;     
-`npm start`       
+## Usage
+Simply start server with `npm start`
 
 ## License
 
-MIT License
+MIT License Copyright
+(view most recent version at https://spdx.org/licenses/MIT.html)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), to deal 
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is 
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
+
+
+## Contributing
+If you would like to contribute to this project:
+
+**You can develop the front end!**
+
+## Tests
+No testing scripts were used
+
+## Questions
+Find me on Github as: [luiscabrera77](https://github.com/luiscabrera77)
+
+The best way to reach out with additional questions is to write me a detailed email. 
+
+Happy coding!
+
+luis.cabrera@gmail.com
