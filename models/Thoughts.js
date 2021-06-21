@@ -10,6 +10,7 @@ const ReactionsSchema = new Schema(
         type: Schema.Types.ObjectId,
         default: ()=> new Types.ObjectId()
     },
+    // This is the text of the reaction
     reactionBody: {
         type: String,
         required: true,
