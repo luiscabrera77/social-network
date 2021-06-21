@@ -17,10 +17,12 @@ const UsersSchema = new Schema(
         match: [/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/]
     },
     thoughts: [{
+        // array referencing Thought Model
         type: Schema.Types.ObjectId,
         ref: 'Thoughts'
     }],
     friends: [{
+        // array referencing User Model
         type: Schema.Types.ObjectId,
         ref: 'Users'
     }]

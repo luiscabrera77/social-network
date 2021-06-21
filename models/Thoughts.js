@@ -2,7 +2,7 @@
 const { Schema, model, Types } = require('mongoose');
 const moment = require('moment');
 
-// ReactionsSchema
+// ReactionsSchema retrieves the length of the thought's reactions array field on query.
 const ReactionsSchema = new Schema(
     {
     // Set custom ID 
@@ -44,7 +44,7 @@ const ThoughtsSchema = new Schema(
     createdAt: {
         type: Date,
         default: Date.now,
-        // Moment
+        // Moment - using a getter method to format the timestamp on query
         get: (createdAtVal) => moment(createdAtVal).format('MMM DD, YYYY [at] hh:mm a')
     },
     username: {
