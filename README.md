@@ -9,8 +9,8 @@ An API for a social network web application where users can share their thoughts
 
 ![image](https://user-images.githubusercontent.com/54341829/122991256-cfbdff80-d372-11eb-8400-f28c0a9583cf.png)
 
+Watch API demo here: https://drive.google.com/file/d/1DS-QuRzU6PS-XeOcjlS2urOsDU0qM_dM/view
 
-`
 - GIVEN a social network API
 - WHEN I enter the command to invoke the application
 - THEN my server is started and the Mongoose models are synced to the MongoDB database
@@ -20,7 +20,7 @@ An API for a social network web application where users can share their thoughts
 - THEN I am able to successfully create, update, and delete users and thoughts in my database
 - WHEN I test API POST and DELETE routes in Insomnia Core
 - THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
-`
+
 
 ## Table of Contents
 - [Installation](#installation)
