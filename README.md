@@ -7,7 +7,8 @@
 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Uses Express.js for routing, a MongoDB database, and the Mongoose ODM. Uses JavaScript Moment library to format timestamps. 
 
-![Screenshot](copy here URL of your app screenshot)
+![image](https://user-images.githubusercontent.com/54341829/122991256-cfbdff80-d372-11eb-8400-f28c0a9583cf.png)
+
 
 `
 - GIVEN a social network API
